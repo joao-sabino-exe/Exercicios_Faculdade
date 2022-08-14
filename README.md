@@ -1,2 +1,2 @@
 # Exercicios_Faculdade
-Exercícios de C do meu primeiro semestre da faculdade
+Aqui ira conter alguns dos codigos em C dos exercicios passados em minha faculdade
